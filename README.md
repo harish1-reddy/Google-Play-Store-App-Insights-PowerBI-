@@ -77,9 +77,9 @@ Analyzes:
 ## 📸 Dashboard Preview
 ![Executive Overview](Executive_Overview.PNG)
 
-![App Performance](App_Performance.PNG)
+![App Performance](App_Performance.png)
 
-![Category & Pricing Analysis](Category_Pricing_Analysis.PNG)
+![Category & Pricing Analysis](Category_Pricing_Analysis.png)
 
 ![Reviews & Sentiment Analysis](Reviews_Sentiment_Analysis.PNG)
 
