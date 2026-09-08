@@ -75,7 +75,7 @@ Analyzes:
 - Common themes in low-rated apps
 
 ## 📸 Dashboard Preview
-![Executive Overview](Executive_Overview.PNG)
+![Executive Overview](Executive_Overview.png)
 
 ![App Performance](App_Performance.png)
 
