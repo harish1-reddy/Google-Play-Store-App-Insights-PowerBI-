@@ -66,6 +66,14 @@ Analyzes:
 - Top apps by sentiment
 - Positive, neutral, and negative user feedback
 
+### 5. Additional Analysis & Insights
+Analyzes:
+- Relationship between app size and ratings
+- Relationship between app price and reviews for paid apps
+- Average rating by genre
+- Common themes in high-rated apps
+- Common themes in low-rated apps
+
 ## 🔍 Key Insights
 
 - The majority of apps are free, with paid apps representing a much smaller share.
