@@ -74,6 +74,17 @@ Analyzes:
 - Common themes in high-rated apps
 - Common themes in low-rated apps
 
+## 📸 Dashboard Preview
+![Executive Overview](Executive_Overview.PNG)
+
+![App Performance](App_Performance.PNG)
+
+![Category & Pricing Analysis](Category_Pricing_Analysis.PNG)
+
+![Reviews & Sentiment Analysis](Reviews_Sentiment_Analysis.PNG)
+
+![Additional Analysis & Insights](Additional_Analysis_Insights.PNG)
+
 ## 🔍 Key Insights
 
 - The majority of apps are free, with paid apps representing a much smaller share.
